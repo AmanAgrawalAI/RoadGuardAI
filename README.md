@@ -122,23 +122,27 @@ Evidence Screenshot Saving
 
 ###  Vehicle Detection
 
-<img width="1053" height="626" alt="Screenshot 2026-08-24 205836" src="https://github.com/user-attachments/assets/62194251-c0bd-49e7-90f0-6910c8db31d4">
+<img width="1053" height="626" alt="Screenshot 2026-08-24 205836" src="https://github.com/user-attachments/assets/123fb2bf-daae-4d2a-a5c7-9e5cfa2247d9" />
+
 
 
 ### 🪖 Helmet Detection
 
-<img width="1057" height="628" alt="Screenshot 2026-08-24 215111" src="https://github.com/user-attachments/assets/eb16be74-9477-4f24-adf1-6c152ae98478">
-
+<img width="1057" height="628" alt="Screenshot 2026-08-24 215111" src="https://github.com/user-attachments/assets/8cc9fd0d-278c-4591-b182-75f782a96630" />
 
 
 ### 🚘 License Plate Detection
+##Screenshorts 1
 
-<img width="1042" height="625" alt="Screenshot 2026-08-24 205747" src="https://github.com/user-attachments/assets/e3fe51f4-1889-4de0-a69f-a053859e594a">
+<img width="1062" height="637" alt="Screenshot 2026-08-24 205814" src="https://github.com/user-attachments/assets/e6f2f4b3-09ce-4718-9240-f23a550dfc68" />
 
+##Screenshorts 2
+
+<img width="1042" height="625" alt="Screenshot 2026-08-24 205747" src="https://github.com/user-attachments/assets/d0523866-ab12-4a57-a907-4a13417ec7e7" />
 
 ### 🚨 Traffic Violation Monitoring
 
-<img width="848" height="480" alt="violation_1780328217" src="https://github.com/user-attachments/assets/7b1ad1ca-5167-4160-82ca-d001e475194d">
+<img width="848" height="480" alt="violation_1780328217" src="https://github.com/user-attachments/assets/9225c597-e4d6-479f-afe5-bf7f5c6356fe" />
 
 
 ---
