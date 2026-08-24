@@ -74,7 +74,7 @@ while cap.isOpened():
     key=cv2.waitKey(1) & 0xFF
 
     if key == ord("s"):
-        filename = f"violations/violation_{int(time.time())}.jpg"
+        filename = f"Violations/violation_{int(time.time())}.jpg"
         cv2.imwrite(filename,final_frame)
         print("Evidence Saved:",filename)
 
