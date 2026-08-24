@@ -96,7 +96,7 @@ Q	Quit the application
 📸 Evidence Saving
 
 When you press S, the current detection frame is saved automatically inside the Violations folder with a timestamp-based filename
-Example: <img width="848" height="480" alt="violation_1780328217" src="https://github.com/user-attachments/assets/f1433442-00d2-4d00-95d6-4066d9ce76e2" />
+Example: <img width="848" height="480" alt="violation_1780328217" src="https://github.com/user-attachments/assets/f1433442-00d2-4d00-95d6-4066d9ce76e2">
 
 
 🔍 Detection Pipeline
@@ -122,24 +122,24 @@ Evidence Screenshot Saving
 
 ###  Vehicle Detection
 
-![Vehicle Detection](<img width="1053" height="626" alt="Screenshot 2026-08-24 205836" src="https://github.com/user-attachments/assets/62194251-c0bd-49e7-90f0-6910c8db31d4" />
-)
+<img width="1053" height="626" alt="Screenshot 2026-08-24 205836" src="https://github.com/user-attachments/assets/62194251-c0bd-49e7-90f0-6910c8db31d4">
+
 
 ### 🪖 Helmet Detection
 
-![Helmet Detection](<img width="1057" height="628" alt="Screenshot 2026-08-24 215111" src="https://github.com/user-attachments/assets/eb16be74-9477-4f24-adf1-6c152ae98478" />
+<img width="1057" height="628" alt="Screenshot 2026-08-24 215111" src="https://github.com/user-attachments/assets/eb16be74-9477-4f24-adf1-6c152ae98478">
 
-)
+
 
 ### 🚘 License Plate Detection
 
-![License Plate Detection](<img width="1042" height="625" alt="Screenshot 2026-08-24 205747" src="https://github.com/user-attachments/assets/e3fe51f4-1889-4de0-a69f-a053859e594a" />
-)
+<img width="1042" height="625" alt="Screenshot 2026-08-24 205747" src="https://github.com/user-attachments/assets/e3fe51f4-1889-4de0-a69f-a053859e594a">
+
 
 ### 🚨 Traffic Violation Monitoring
 
-![Traffic Monitoring](<img width="848" height="480" alt="violation_1780328217" src="https://github.com/user-attachments/assets/7b1ad1ca-5167-4160-82ca-d001e475194d" />
-)
+<img width="848" height="480" alt="violation_1780328217" src="https://github.com/user-attachments/assets/7b1ad1ca-5167-4160-82ca-d001e475194d">
+
 
 ---
 
