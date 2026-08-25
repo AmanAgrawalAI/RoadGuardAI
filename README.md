@@ -43,7 +43,7 @@ The system processes traffic video in real time, detects vehicles, identifies he
 8. Pressing **S** saves the current frame as evidence.
 9. Pressing **Q** closes the application.
 
----
+
 
 ## 📂 Project Structure
 
@@ -116,7 +116,7 @@ Real-Time Detection Display
       ↓
 Evidence Screenshot Saving
 
----
+```
 
 ## 📸 Project Screenshots
 
